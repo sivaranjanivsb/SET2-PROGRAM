@@ -2,12 +2,12 @@
 void main()
 {
 int i,n,a;
-printf(" enter the number");
+printf(" enter the number \t");
 scanf("%d",&n);
 for(i=1;i<=5;i++)
 {
   a=i*n;
-  printf("%d /n",a);
+  printf("%d \t",a);
 }
 
 }
